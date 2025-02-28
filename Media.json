@@ -1,0 +1,38 @@
+{
+    "content": [
+        {
+            "title": "Test1",
+            "subtitle": "This is Test1",
+            "streamURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+            "type": "m3u8"
+        },
+        {
+            "title": "Test2",
+            "subtitle": "This is Test2",
+            "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+            "type": "m3u8"
+            
+        },
+        {   "title": "Test3",
+            "subtitle": "This is Test3",
+            "streamURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+            "type": "m3u8"
+        },
+        {   "title": "Test4",
+            "subtitle": "This is Test4",
+            "streamURL": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+            "type": "m3u8"
+        },
+        {   "title": "Test5",
+            "subtitle": "This is Test5",
+            "streamURL": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+            "type": "m3u8"
+        }
+        
+    ]
+}
