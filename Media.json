@@ -1,40 +1,68 @@
 {
     "content": [
         {
-            "title": "Test1",
-            "subtitle": "This is Test1",
+            "title": "Video 1",
+            "subtitle": "This is Video1",
             "streamURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "thumbnail": "https://fastly.picsum.photos/id/28/4928/3264.jpg?hmac=GnYF-RnBUg44PFfU5pcw_Qs0ReOyStdnZ8MtQWJqTfA",
+            "thumbnail": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg",
             "duration": "00:19:30",
             "type": "m3u8"
         },
         {
-            "title": "Test2",
-            "subtitle": "This is Test2",
+            "title": "Video 2",
+            "subtitle": "This is Video 2",
             "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
             "duration": "00:00:05",
             "type": "m3u8"
             
         },
-        {   "title": "Test3",
-            "subtitle": "This is Test3",
+        {   "title": "VIdeo 3",
+            "subtitle": "This is Video 3",
             "streamURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
             "duration": "00:00:10",
             "type": "m3u8"
         },
-        {   "title": "Test4",
-            "subtitle": "This is Test4",
+        {   "title": "Video 4",
+            "subtitle": "This is Video 4",
             "streamURL": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
             "duration": "00:20:00",
             "type": "m3u8"
         },
-        {   "title": "Test5",
-            "subtitle": "This is Test5",
+        {   "title": "Video 5",
+            "subtitle": "This is Video 5",
             "streamURL": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+            "duration": "00:10:00",
+            "type": "m3u8"
+        },
+         {   "title": "Video 6",
+            "subtitle": "This is Video 6",
+            "streamURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+            "thumbnail": "https://farm4.staticflickr.com/3075/3168662394_7d7103de7d_z_d.jpg",
+            "duration": "00:10:00",
+            "type": "m3u8"
+        },
+         {   "title": "Video 7",
+            "subtitle": "This is Video 7",
+            "streamURL": "http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multichannel_subs.m3u8",
+            "thumbnail": "https://farm4.staticflickr.com/3075/3168662394_7d7103de7d_z_d.jpg",
+            "duration": "00:10:00",
+            "type": "m3u8"
+        },
+         {   "title": "Video 8",
+            "subtitle": "This is Video 8",
+            "streamURL": "http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multi_language_subs.m3u8",
+            "thumbnail": "https://farm3.staticflickr.com/2220/1572613671_7311098b76_z_d.jpg",
+            "duration": "00:10:00",
+            "type": "m3u8"
+        },
+        {   "title": "Video 9",
+            "subtitle": "This is Video 9",
+            "streamURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+            "thumbnail": "https://farm7.staticflickr.com/6089/6115759179_86316c08ff_z_d.jpg",
             "duration": "00:10:00",
             "type": "m3u8"
         }
